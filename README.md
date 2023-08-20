@@ -3,13 +3,14 @@
 
 
 ## **Overview of the Token & Crowdsale Launch**
-The Solidity smart contract the launch of KASEI coin, a fungible token based on the ERC-20 standard. A crowdsale contract is also deployed allowing buyers to purchase KASEI coin. The process is executed on *Remix* IDE synced to the smart contract testing platform *Ganache* and hot storage wallets on *Metamask*.
+The Solidity smart contract is developed for the launch of KASEI coin, a fungible token based on the ERC-20 standard. A crowdsale contract is also deployed allowing buyers to purchase KASEI coin. The process is executed on *Remix* IDE synced to the smart contract testing platform *Ganache* and hot storage wallets on *Metamask*.
 ****
 
 ## **Folder Structure**
 
 * The `KaseiCoin.sol` contains the solidity smart contract code for the KaseiCoin contract.
 * The `KaseiCoinCrowdsale.sol` contains the solidity smart contract code for the Crowdsale contract.
+* The `Optional_KaseiCoinCrowdsale.sol` contains the solidity smart contract code for the Crowdsale contract of the optional challenge.
 * The `Execution_Results` folder contains snapshots of the process execution of the smart contract on *Remix*.
 
 
@@ -96,9 +97,9 @@ The following section presents the step-by-step execution of the updated smart c
 <br>
 
 <sup>
+Note: A function to display the real-time Unix was necessary to be added to the deployer contract in order for these additional features to function properly. Otherwise the status of *isOpen()* remains unchanged indefinitely.</sup>
+<br>
 
-`Note`: A function to display the real-time Unix was necessary to be added to the deployer contract in order for these additional features to function properly. Otherwise the status of *isOpen()* remains unchanged indefinitely.
-<sup>
 
 
 ![deploy_delpoyer2](Execution_Results/Optional_challenge/deploy_deployer.png)
