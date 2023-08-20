@@ -83,7 +83,7 @@ The following presents the step-by-step execution of the smart contract on the *
 
 ## **Optional: Extend the Crowdsale Contract by Using OpenZeppelin**
 
-This section illustrates the sucessfull completion of the optional challenge. Additional OpenZeppelin contracts have been inherited to the existing contract allowind additional functionality to the crowdsale - `CappedCrowdsale` to set a cap for the goal of ETH to be raised, `TimeCrowdsale` to set a time limit for when the crowdsale opens and closes and `RefundablePostDeliveryCrowdsale ` to refund investors if goal is not reached.
+This section illustrates the sucessfull completion of the optional challenge. Additional OpenZeppelin contracts have been inherited to the existing contract allowing additional functionality to the crowdsale - `CappedCrowdsale` to set a cap for the goal of ETH to be raised, `TimeCrowdsale` to set a time limit for when the crowdsale opens and closes and `RefundablePostDeliveryCrowdsale ` to refund investors if goal is not reached.
 
 ### Compiling Evidence
 
