@@ -87,7 +87,7 @@ This section illustrates the sucessfull completion of the optional challenge. Ad
 
 ### Compiling Evidence
 
-![KaseiCoinCrowdsaleDeployer2](Execution_Results/Optional_challenge/compile.png)
+![KaseiCoinCrowdsaleDeployer2](Execution_Results/Optional_challenge/compile.PNG)
 
 ##### <center>Figure 12 - Compiling the Updated Crowdsale Deployer Contract
 
