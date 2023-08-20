@@ -102,11 +102,11 @@ Note: A function to display the real-time Unix was necessary to be added to the 
 
 
 
-![deploy_delpoyer2](Execution_Results/Optional_challenge/deploy_deployer.png)
+![deploy_delpoyer2](Execution_Results/Optional_challenge/deploy_deployer.PNG)
 
 ##### <center>Figure 13 - Deploy New Deployer
 
-![goal_reached](Execution_Results/Optional_challenge/goal_reached_before_close.png)
+![goal_reached](Execution_Results/Optional_challenge/goal_reached_before_close.PNG)
 
 ##### <center>Figure 14 - Goal Reached Before Close Time
 
