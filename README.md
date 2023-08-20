@@ -3,7 +3,7 @@
 
 
 ## **Overview of the Token & Crowdsale Launch**
-The Solidity smart contract is developed for the launch of KASEI coin, a fungible token based on the ERC-20 standard. A crowdsale contract is also deployed allowing buyers to purchase KASEI coin. The process is executed on *Remix* IDE synced to the smart contract testing platform *Ganache* and hot storage wallets on *Metamask*.
+The Solidity smart contract is developed for the launch of KASEI coin, a fungible token based on the ERC-20 standard. A crowdsale contract is also deployed allowing buyers to participate in KASEI coin crowdsale. The process is executed on *Remix* IDE synced to the smart contract testing platform *Ganache* and hot storage wallets on *Metamask*.
 ****
 
 ## **Folder Structure**
